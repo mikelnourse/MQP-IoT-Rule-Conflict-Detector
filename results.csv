@@ -1,0 +1,3 @@
+rule_from,rule_to,relationship,confidence
+1,2,chain,67.22
+2,3,chain,74.66
